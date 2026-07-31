@@ -1,0 +1,2 @@
+# scripts-fastapi
+fastapi project
